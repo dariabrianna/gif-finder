@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gif-finder/static/css/main.b2eddfb4.css",
+    "main.js": "/gif-finder/static/js/main.2558d1b6.js",
+    "index.html": "/gif-finder/index.html",
+    "main.b2eddfb4.css.map": "/gif-finder/static/css/main.b2eddfb4.css.map",
+    "main.2558d1b6.js.map": "/gif-finder/static/js/main.2558d1b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eddfb4.css",
+    "static/js/main.2558d1b6.js"
+  ]
+}
